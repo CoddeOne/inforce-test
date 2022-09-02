@@ -1,3 +1,16 @@
 .ProductsList {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
 
+.ProductsList-sort {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.ProductsList-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1rem;
 }

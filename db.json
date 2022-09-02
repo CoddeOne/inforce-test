@@ -1,0 +1,61 @@
+{
+  "products": [
+    {
+      "name": "Iphone 12",
+      "weight": "120g",
+      "imageUrl": "https://viktormob.rs/wp-content/uploads/2022/03/13-13-mini.jpg",
+      "count": 55,
+      "size": {
+        "width": 8,
+        "height": 20
+      },
+      "id": 3
+    },
+    {
+      "name": "Iphone 11",
+      "weight": "120g",
+      "imageUrl": "https://viktormob.rs/wp-content/uploads/2022/03/13-13-mini.jpg",
+      "count": 11,
+      "size": {
+        "width": 8,
+        "height": 20
+      },
+      "comments": [
+        {
+          "id": 1,
+          "description": "Liked",
+          "date": "2022-02-03 11:44:51 UTC"
+        },
+        {
+          "id": 2,
+          "description": "NicePhone",
+          "date": "2022-04-01 11:07:51 UTC"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "name": "Iphone 13",
+      "weight": "120g",
+      "imageUrl": "https://touchstudio.com.ua/sites/default/files/iphone-13-pro-max-green-select.png",
+      "count": 15,
+      "size": {
+        "width": 8,
+        "height": 20
+      },
+      "comments": [
+        {
+          "id": 1,
+          "description": "NicePhone",
+          "date": "2022-08-06 11:22:51 UTC"
+        },
+        {
+          "id": 2,
+          "description": "NicePhone",
+          "date": "2022-09-01 11:07:51 UTC"
+        }
+      ],
+      "id": 22
+    }
+  ]
+}

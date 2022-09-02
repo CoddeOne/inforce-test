@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.Container {
+    max-width: 84rem;
+    margin: 1rem auto;
+}
+
+* {
+    box-sizing: border-box;
+}
